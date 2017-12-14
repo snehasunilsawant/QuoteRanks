@@ -1,0 +1,12 @@
+.red{
+    color: red;
+}
+
+.boxborder{
+    border: 2px solid purple;
+}
+
+
+form.ng-invalid{
+    border:5px solid red
+}
